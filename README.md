@@ -48,3 +48,5 @@ conn=mysql.connector.connect(host="localhost",user="root",password="Rnjit",datab
 Now finall change the password accorrding to your mysqlworkbench
 
 and then Run
+
+/
